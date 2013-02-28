@@ -7,7 +7,7 @@
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="abfd186e-42e6-4415-95ee-f65e74ea466f" time="1362045406298" ignored="false" />
+    <file path="/Dummy.txt" changelist="abfd186e-42e6-4415-95ee-f65e74ea466f" time="1362045560992" ignored="false" />
     <file path="/Hello.html" changelist="abfd186e-42e6-4415-95ee-f65e74ea466f" time="1362045328825" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -455,7 +455,11 @@
       <created>1362045414695</created>
       <updated>1362045414695</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1362045565622</created>
+      <updated>1362045565622</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -520,7 +524,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -534,6 +538,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Test" />
+    <MESSAGE value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
