@@ -22,6 +22,7 @@ group :test do
   gem 'rspec-rails', '2.6.1'
   gem 'webrat', '0.7.1'
   gem 'spork'
+  gem 'factory_girl_rails'
 end
 
 gem 'jquery-rails'
@@ -31,4 +32,5 @@ gem 'autotest'
 gem 'autotest-rails-pure'
 gem 'autotest-fsevent'
 gem 'autotest-growl'
+gem 'gravatar_image_tag'
 
