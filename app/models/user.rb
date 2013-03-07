@@ -38,8 +38,9 @@ class User < ActiveRecord::Base
 
   def self.authenticate(email, entered_password)
     user = find_by_email(email)
-    return nil if user.nil?
-    user if user.has_password?(entered_password)
+    if user.try(:has_password?, entered_password)
+      user
+    end
   end
 
   private
